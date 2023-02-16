@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body{
+    background-color: antiquewhite;
+}
+h1 { 
+    color: #191970;
+    font-size: 40px;
+}
+h2{
+    color: #0000cd;
+    font-size: 35px;
+}
+h3{
+    color: #b22222;
+    font-size: 20px;
+}
+h4{
+    color: #000000;
+    font-size: 15px;
+}
+p{
+    line-height: 1.7;
+}
+table, td, th {
+    border: 2px #000000 solid;
+}
